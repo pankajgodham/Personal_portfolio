@@ -17,9 +17,9 @@ const About = () => {
           <div className="md:w-1/2">
             <div className="w-32 h-32 sm:w-40 sm:h-40 rounded-full overflow-hidden border-4 border-indigo-100 shadow-md flex-shrink-0">
               <img 
-                src="/IMG20230217143241-01.jpeg" 
+                src="/IMG_20250111_150600.jpg" 
                 alt="Professional headshot" 
-                className="w-full h-full object-cover object-center"
+                className="w-fit h-fit object-cover object-center"
               />
             </div>
             <div>

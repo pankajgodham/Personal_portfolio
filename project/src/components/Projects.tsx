@@ -9,7 +9,7 @@ const Projects = () => {
       description: "A full-featured e-commerce platform with product management, cart functionality, and payment processing.",
       image: "/job2.jpg",
       tags: ["React", "Node.js", "MongoDB", "Tailwind CSS"],
-      liveLink: "https://example.com",
+      liveLink: "https://jobportal-9z5q.onrender.com/",
       githubLink: "https://github.com",
     },
     {
