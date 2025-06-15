@@ -17,7 +17,7 @@ const About = () => {
           <div className="md:w-1/2">
             <div className="w-32 h-32 sm:w-40 sm:h-40 rounded-full overflow-hidden border-4 border-indigo-100 shadow-md flex-shrink-0">
               <img 
-                src="/IMG_20250111_150600.jpg" 
+                src="https://media.licdn.com/dms/image/v2/D4D03AQGJKzozT77PNQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1678598123831?e=1755734400&v=beta&t=OuFfAuLZY7zsmJjw_p9cf5vGAp9g6eEdOSawpApiZFM" 
                 alt="Professional headshot" 
                 className="w-fit h-fit object-cover object-center"
               />
