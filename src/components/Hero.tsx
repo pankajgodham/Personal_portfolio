@@ -32,7 +32,7 @@ const Hero = () => {
           </div>
           <div className="md:w-1/2 flex justify-center relative z-10">
             <div className="relative w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-white shadow-xl">
-            <img src="/IMG_20230915_140057.jpg" alt="Pankaj Godham" className="w-fit h-fit object-cover" />
+            <img src="https://media.licdn.com/dms/image/v2/D4D03AQGJKzozT77PNQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1678598123831?e=1755734400&v=beta&t=OuFfAuLZY7zsmJjw_p9cf5vGAp9g6eEdOSawpApiZFM" alt="Pankaj Godham" className="w-fit h-fit object-cover" />
 
             </div>
             
